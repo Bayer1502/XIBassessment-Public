@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgreasql://localhost:5432/test
+    username: postgres
+    password: Unleashed@01
+    pool-size: 30
